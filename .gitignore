@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 *.iml
 .gradle
 /local.properties
@@ -7,3 +8,14 @@
 /build
 /captures
 .externalNativeBuild
+=======
+*.iml
+.gradle
+/local.properties
+/.idea/workspace.xml
+/.idea/libraries
+.DS_Store
+/build
+/captures
+.externalNativeBuild
+>>>>>>> 69e329d7d9fb140c9651ff4a9480415964f16190
